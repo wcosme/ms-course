@@ -3,13 +3,6 @@
 Aprendendo a estruturar um sistema de microsserviços Java com Spring Boot e Spring Cloud (Feign, Ribbon, Hystrix, OAuth, JWT, Discovery Server Eureka, API Gateway Zuul, Config Server).
 
 # Curso Microsserviços Java com Spring Boot e Spring Cloud
-#### Nelio Alves 
-https://www.udemy.com/user/nelio-alves
-
-https://youtube.com/devsuperior
-
-https://instagram.com/devsuperior.ig
-
 # Fase 1: Comunicação simples, Feign, Ribbon
 
 ### 1.1 Criar projeto hr-worker
