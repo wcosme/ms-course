@@ -1,4 +1,4 @@
-package com.wg.hruser.resources;
+package com.wg.hruser.controllers;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -14,7 +14,7 @@ import com.wg.hruser.repositories.UserRepository;
 
 @RestController
 @RequestMapping(value = "/users")
-public class UserResouce {
+public class UserController {
 	
 	
 	@Autowired
